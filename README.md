@@ -6,10 +6,10 @@
 
     ```bash
     # Clone this repository or download
-    $ git clone https://github.com/rckyms/HappyBirthdayAyang.github.io.git
+    $ git clone https://github.com/rckyms/HappyBirthdayAyang.git
 
     # Go into the repository
-    $ cd HappyBirthdayAyang.github.io.git
+    $ cd HappyBirthdayAyang.git
 
     # Open with your text editor
     $ code .
