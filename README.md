@@ -33,4 +33,4 @@ If you have any idea to make it more interesting, feel free to send a PR, or cre
 
 ### [MIT](LICENSE)
 
-> Github [@fajaraldev](https://github.com/rckyms/) &nbsp;&middot;&nbsp;
+> Github [@rckyms](https://github.com/rckyms/) &nbsp;&middot;&nbsp;
